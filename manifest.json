@@ -1,0 +1,52 @@
+{
+  "manifest_version": 2,
+  "name": "Matte Dark Green",
+  "version": "1.2",
+  "description": "Tema oscuro / matte black con acento verde esmeralda.",
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "matte-dark-green@carlos"
+    }
+  },
+  "author": "Carlos",
+  "theme": {
+    "colors": {
+      "frame": "#0d0d0d",
+      "frame_inactive": "#111111",
+      "tab_background_text": "#ffffff",
+      "tab_text": "#0D8B57",
+      "tab_selected": "#1a1a1a",
+      "tab_line": "#0D8B57",
+      "tab_loading": "#0D8B57",
+      "toolbar": "#151515",
+      "toolbar_text": "#e6e6e6",
+      "toolbar_top_separator": "transparent",
+      "toolbar_bottom_separator": "transparent",
+      "toolbar_vertical_separator": "transparent",
+      "tab_background_separator": "transparent",
+      "toolbar_field": "#1e1e1e",
+      "toolbar_field_text": "#ffffff",
+      "toolbar_field_border": "#0D8B57",
+      "toolbar_field_focus": "#222222",
+      "toolbar_field_border_focus": "#0D8B57",
+      "toolbar_field_highlight": "#0D8B57",
+      "toolbar_field_highlight_text": "#ffffff",
+      "icons": "#0D8B57",
+      "icons_attention": "#12b574",
+      "button_background_hover": "#1f3a2e",
+      "button_background_active": "#1f3a2e",
+      "bookmark_text": "#e6e6e6",
+      "popup": "#151515",
+      "popup_text": "#e6e6e6",
+      "popup_border": "#0D8B57",
+      "popup_highlight": "#0D8B57",
+      "popup_highlight_text": "#ffffff",
+      "sidebar": "#111111",
+      "sidebar_text": "#e6e6e6",
+      "sidebar_highlight": "#0D8B57",
+      "sidebar_highlight_text": "#ffffff",
+      "ntp_background": "#0d0d0d",
+      "ntp_text": "#e6e6e6"
+    }
+  }
+}
